@@ -1,0 +1,73 @@
+baseURL = "https://www.barrosyasociados.cl/"
+languageCode = "es-la"
+paginate = 6
+theme = "portio"
+title = "Barros y Asociados"
+# Main Menu
+[[menu.main]]
+name = "Inicio"
+url = "#home"
+weight = 1
+[[menu.main]]
+name = "Nosotros"
+url = "#about"
+weight = 2
+[[menu.main]]
+name = "Areas"
+url = "#service"
+weight = 3
+
+# Sitemap Menu
+[[menu.sitemap]]
+name = "Inicio"
+url = "home"
+weight = 1
+[[menu.sitemap]]
+name = "Nosotros"
+url = "about"
+weight = 2
+[[menu.sitemap]]
+name = "Areas"
+url = "service"
+weight = 3
+
+[params]
+blogPageURL = "blog"
+contactLink = "contact"
+copyright = "Todos los derechos reservados copyright © Portio 2022"
+footerLogo = "images/contact/widget-logo.png"
+formspreeURL = "https://formspree.io/f/xknyzayw"
+googleAnalytics = "G-QCYJKC53MGsh"
+logo = "images/site-navigation/logo.png"
+
+[params.address]
+email = "barrosmariapatricia@gmail.com"
+phone = "+(56) 9 7934 3094"
+address = "Concepción, Región del Biobío. Chile."
+openingHours = "Lunes a viernes de 8.30 a 18.30 hs."
+
+
+
+[params.map]
+APIkey = "AIzaSyAxd6PSVqmOmzRtlACiZ1V0fSWcTqXz3Uc"
+latitude = "-36.829379"
+longitude = "-73.058084"
+pinImage = "images/pin.png"
+
+# Social icons
+#[[params.social]]
+#icon = "fa-facebook-official"
+#url = "https://www.facebook.com/"
+#weight = 1
+[[params.social]]
+icon = "fa-linkedin-square"
+url = "https://www.linkedin.com/in/maria-patricia-barros-b66175161/"
+weight = 2
+#[[params.social]]
+#icon = "fa-pinterest-square"
+#url = "https://www.pinterest.com/"
+#weight = 3
+#[[params.social]]
+#icon = "fa-twitter-square"
+#url = "https://twitter.com/"
+#weight = 4

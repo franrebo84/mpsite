@@ -1,0 +1,58 @@
+---
+enable: true
+#topTitle: Areas
+title: >
+  ## Areas
+service:
+  - content: >
+      #### Derecho Laboral
+
+      *	Defensa integral y asesoría a trabajadores y empleadores
+
+      *	Accidentes laborales
+
+      *	Despidos injustificados
+
+      *	Revisión de finiquitos
+
+      *	Auto despidos
+
+      *	Vulneración de Derechos Fundamentales - Tutelas
+
+      *	Cobro de prestaciones laborales
+
+
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Derecho de Familia
+
+      *	Divorcios
+
+      *	Compensación económica
+
+      *	Pensión de alimentos
+
+      *	Relación directa y regular
+
+      *	Cuidado personal
+
+      
+    image: images/service/web.svg
+  - content: >
+      #### Derecho Civil
+
+      *	Cambios de nombre
+
+      *	Redacción de contratos
+
+      *	Compraventas
+
+      *	Promesas
+
+      *	Testamentos
+
+      *	Asesoría integral de temas de ISAPRES
+
+      *	Asesoría integral en Rentas Vitalicias
+
+    image: images/service/creative.svg
