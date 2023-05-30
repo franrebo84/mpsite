@@ -2,14 +2,8 @@
 enable: true
 topTitle: '.'
 title: >
-  ### SOBRE NOSOTROS
-  
-  Barros y Asociados es un estudio jurídico que nace en  2022 para otorgar soluciones legales integrales en las áreas de derecho laboral, de familia y civil.
-
-
-  
-  El principal objetivo es entregar seguridad y celeridad a los clientes, utilizando todas las herramientas de las nuevas vías de comunicación, las que permiten gestionar tus intereses de la manera más cómoda posible.
-
+  # SOBRE NOSOTROS
+#
 content: >
   ### MARÍA PATRICIA BARROS
 

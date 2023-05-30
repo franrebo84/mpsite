@@ -15,9 +15,9 @@ services:
           - "traefik.http.services.mp.loadbalancer.server.port=80" # Port where service is listening.
 #         - "traefik.http.middlewares.hugo-white.ipwhitelist.sourcerange=127.0.0.1/32,190.246.194.226"
 #         - "traefik.http.routers.hugo.middlewares=hugo-white@docker"
-          - "traefik.http.routers.mp.middlewares=status-pages-middleware@docker"
         networks:
           - backend
+        restart: unless-stopped
 networks:
   backend:
     external: true

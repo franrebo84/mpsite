@@ -1,13 +1,13 @@
 ---
-enable: false
-topTitle: Hello, I am Natasha
+enable: True
+topTitle: ""
 content: >
-  # I am here for your personal business
+  Barros y Asociados es un estudio jurídico que nace en  2022 para otorgar soluciones legales integrales en las áreas de derecho laboral, de familia y civil.
+  
+  El principal objetivo es entregar seguridad y celeridad a los clientes, utilizando todas las herramientas de las nuevas vías de comunicación, las que permiten gestionar tus intereses de la manera más cómoda posible.
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
-buttonName: Contact me
+buttonName: Contáctanos 
 buttonURL: contact
-image: images/hero/2960351.jpg
-videoThumb: images/hero/popup-thumb.png
-videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+image: images/hero/libro.png
+#videoThumb: images/hero/popup-thumb.png
+#videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
